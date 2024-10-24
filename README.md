@@ -15,6 +15,9 @@ In this midterm exam we work as a group to create a web of medical web with appo
 ## Database
 ### PDM
 
+![Medical_Website_Midexam_Physical_Export-2024-10-24_20-04](https://github.com/user-attachments/assets/beeea7cd-0305-42d5-8ca9-5e1f3a404f84)
+
+
 ## Model
 ```add here```
 
